@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import Layout from './app/components/Layout';
 
-AppRegistry.registerComponent('TimeCop2', () => App);
+AppRegistry.registerComponent('TimeCop2', () => Layout);
